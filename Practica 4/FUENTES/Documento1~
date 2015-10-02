@@ -1,0 +1,72 @@
+Estructura hormiga Vector de enteros con nodos escogidos cmo medoide en cada paso de la hormiga.
+		   Vector de pares entero bollenano con los n mejores candidatos escogido y si han sido escogidos para formar parte de la solucion o no .
+
+Algoritmo de Ordenacion QUICKSORT, implementado mediante tres funciones  
+Quicksort:Funcion recursiva que realisa quicksort
+Ordenar: que invoca a quiecksort
+
+DistanciaPC(dimPatron,dimCentroide)
+Calcula la dismension de un patron a cuialquier centroide del conjunto.
+		
+Se inicialisa la hormiga de forma que inicialmente solo conoce el conjunto incial de nodos al os que pertenece. Ningun candidato ha sido escogido.
+
+
+aniadirNodo(hormiga &h, int posicion_nodo){
+Añadir un nodo al conjunto de nodos solución de una hormiga y marcar su pertenencia
+
+primerPaso(hormiga)
+	elegir uno de los candidatos par ser el primer nodo de la solucion
+
+Establecer_configuracion(horiga,matris de pertenecnia, n_patrones,n_clusters, tabla de patrones)
+	Cramos un vector de patrones on los seleccionados
+	inicialisamos la estructura par al amatris de pertenecnia
+	Asignar lo spatrones al cluster mas cercano sin modificar los centroides durante el proceso.
+MejorHormiga(soluciones)
+	Mejor de todas las hormigas
+		Se entiende pr mejor la de menor coste en su solucion correspondiente.
+
+void comprobarMejorSolucion(Clustering mejor, hormiga mejor_hormiga, Clustering mejor_solucion_actual, hormiga mejor_colonia_actual)
+Comprobar si una solución es mejor que otra, entendiendo por mejor que su valor es mejor.
+
+InicialisarFeromonas(feromonas,valor_incial)
+	Inicialisar feromonas con un valor v
+
+Cargar el fichero con los patrones y sus dimensiones.
+void cargarEstructura( nombre_archivo, tabla_patrones){
+	
+
+FUNCIONES PARA LECTURA DE ESTRUCTURAS.
+Lectura del vector de candidatos.
+leerVectorCandidatos(candidatos){
+
+	
+Lectura de la matriz de patrones.
+template<typename tipoDato>
+leerMatrizPatrones(tipoDato matriz)
+	
+Lectura de una hormiga o de una colonia.
+void mostrarHormiga(hormiga)
+	
+	
+void mostrarColonia(colonia)
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

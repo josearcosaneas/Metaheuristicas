@@ -1,0 +1,9 @@
+grasp.cpp---
+Archivo con los metodos de busqueda local asi como los metodos especificos del algoritmo GRASP --solGreddy
+
+random.h---
+Archivo que contiene el generador de numeros aleatorios.
+
+
+---.txt 
+son los archivos de los que leeremos los datos de entrada.

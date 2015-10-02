@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1368739142 source:/home/jose-ia/Escritorio/practica2MH/BL.cpp
+	"BL.h"
+	<cstdlib>
+	<iostream>
+	<vector>
+	<math.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	"time.h"
+
+1368739094 /home/jose-ia/Escritorio/practica2MH/BL.h
+	<cstdlib>
+	<iostream>
+	<vector>
+	<math.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	"time.h"
+
+1368739221 source:/home/jose-ia/Escritorio/practica2MH/BMP.cpp
+	<cstdlib>
+	"BL.h"
+	<vector>
+
+1368739528 source:/home/jose-ia/Escritorio/practica2MH/P2.cpp
+	<cstdlib>
+	"BMP.cpp"
+	<iostream>
+	"lecturaarchivo.cpp"
+
+1368739221 /home/jose-ia/Escritorio/practica2MH/BMP.cpp
+	<cstdlib>
+	"BL.h"
+	<vector>
+
+1368739608 /home/jose-ia/Escritorio/practica2MH/lecturaarchivo.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<math.h>
+
+1368739400 source:/home/jose-ia/Escritorio/practica2MH/busquedalocal.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+	<math.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	"time.h"
+
+1368739485 source:/home/jose-ia/Escritorio/practica2MH/leerarchivo.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<math.h>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="BL.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1403" topLine="39" />
+	</File>
+	<File name="BL.h" open="1" top="0" tabpos="3">
+		<Cursor position="825" topLine="6" />
+	</File>
+	<File name="BMP.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="1450" topLine="0" />
+	</File>
+	<File name="P2.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="2389" topLine="35" />
+	</File>
+	<File name="busquedalocal.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="6828" topLine="181" />
+	</File>
+	<File name="leerarchivo.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="137" topLine="0" />
+	</File>
+	<File name="random.h" open="1" top="0" tabpos="2">
+		<Cursor position="510" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

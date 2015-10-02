@@ -1,0 +1,44 @@
+Tiempo AGG;
+
+Yeast:
+
+12345678=El mejor resultado es: 37.4543
+El tiempo: 187.28
+
+23456789=
+34567891=
+45678912=
+56789123=
+
+Agreggation:
+
+12345678=El mejor resultado es: 9421.36
+El tiempo: 37.62
+
+23456789=El mejor resultado es: 9381.22
+El tiempo: 39.36 
+
+
+34567891=El mejor resultado es: 9439.11
+El tiempo: 41.75//Gran consumo de memoria
+
+45678912=El mejor resultado es: 9421.17
+El tiempo: 41.75
+56789123=El mejor resultado es: 9450.18
+El tiempo: 12.84
+El mayor consumo en memoria desborada mi core a los 7200 evaluaciones
+
+wdbc=
+12345678=El mejor resultado es: 1.57716e+17
+El tiempo: 20.96
+
+23456789=El mejor resultado es: 1.63309e+17
+El tiempo: 30.04
+
+34567891= El mejor resultado es: 1.96295e+17
+El tiempo: 20.62
+45678912=El mejor resultado es: 1.63133e+17
+El tiempo: 22.76
+56789123=El mejor resultado es: 1.81863e+17
+El tiempo: 25.61
+

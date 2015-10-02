@@ -1,0 +1,43 @@
+
+#include "clustering.h"
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
+
+int main(int argc, char **argv){
+	unsigned long semilla;
+	if (argc != 2) {
+		cout<<"\nFormato: main <nombre_fich_configuracion>\n\n";
+		abort();
+	}
+	Input(argc, argv);
+	
+	cout<< "Introduzca la semilla: ";
+	cin >> semilla;
+	Seed = semilla;
+
+
+	cout<< "\nALGORITMOS INCLUIDOS: \n";
+	cout<<"	1. AGG		-------->	 A"<<endl;
+	cout<<"	2. AGE		-------->	 E"<<endl;
+
+	
+	char algoritmo;
+	cout<<"\nIntroduzca el numero de algoritmo a usar: "<<endl;
+	cin>>algoritmo;
+
+	if (algoritmo == 'A'){
+		AGG();
+		liberarMemoriaAGG();
+	}
+	else if (algoritmo == 'E'){
+		AGE();
+		liberarMemoriaAGE();
+	}
+	else{
+		cout<<"\nAlgoritmo no registrado. El programa finaliza...\n\n"<<endl;
+	}
+		
+	return (0);
+}

@@ -1,0 +1,38 @@
+Archivos y breve descripcion:
+
+input.c
+
+ Este fichero procede a leer el fichero de configuracion y posteriomente crea una tabla con los datos dle fichero de entrenamiento.  Y se realisan las correspondientes reservar de memoria para la configuracion de los clusters, para la estructura que almacena los centrosy para los tamaños de los clusters.
+
+timer.c - timer.h 
+
+ Estos dos archivos son utilisados para medir los tiempos de ejecución.
+
+define.h
+
+Defino los tipos a utilisar en la practica como son : lugar donde guarfar los datos. Creamos un tipo de dato para almacenar gen.
+Definifmo un tipo cromosoma que sera un puntero de tipo gen.
+
+Para cada individuo de la poblacion esta formado por un elemento tip cromosoma u double y un int.
+Por ultimo utilisaremos un tipo para los centros y otro para guardar la configuracion.
+
+El archivo tambien incluye el generador de numero aleatorios.
+
+
+Extern.h
+
+Declaracion externa de las variables y metodos (funciones) de las que consta la practica.
+
+usogenetico.c
+
+incluye un la funcion main. 
+
+clustering.h clustering.c
+
+
+Incluye la declaracion e implementación de todos los métodos de la práctica.
+
+La funcion y la explicacion de los métodos mas relevantes de esta practica se presenta en la documentacion.
+
+
+

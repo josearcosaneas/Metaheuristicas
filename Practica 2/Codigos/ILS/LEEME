@@ -1,0 +1,16 @@
+---txt
+archivos para la lectura de los datos de entrada.
+
+BL.h BL.cpp 
+
+declaracion e implementacion de los metodos de la busqueda local.
+
+its.h its.cpp (iterative Local Search)
+
+declaracion e implementacion de los metodos caracteristicos de la busqueda local iterativa.(ILS) 
+
+random.h generador de numeros aleatorios.
+
+lecturaarchivo.cpp 
+
+es el escargado de la lectura de los datos de entrada.

@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1368740444 source:/home/jose-ia/Escritorio/ILS/BL.cpp
+	"BL.h"
+	<cstdlib>
+	<iostream>
+	<vector>
+	<math.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	"time.h"
+
+1368740322 /home/jose-ia/Escritorio/ILS/BL.h
+	<cstdlib>
+	<iostream>
+	<vector>
+	<math.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	"time.h"
+
+1368740444 source:/home/jose-ia/Escritorio/ILS/clustering.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+	<math.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	"time.h"
+
+1368740445 source:/home/jose-ia/Escritorio/ILS/its.cpp
+	<cstdlib>
+	"its.h"
+	"BL.h"
+	<cstdlib>
+	<iostream>
+	<vector>
+	<math.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	"time.h"
+
+1368740537 /home/jose-ia/Escritorio/ILS/its.h
+	"BL.h"
+	<vector>
+	<iostream>
+
+1368740537 source:/home/jose-ia/Escritorio/ILS/lecturaarchivo.cpp
+

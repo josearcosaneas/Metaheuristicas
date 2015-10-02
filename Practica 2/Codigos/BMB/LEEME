@@ -1,0 +1,19 @@
+leerarchivo.cpp
+archivo para leer los datos de entrada.
+
+BL.cpp BL.h
+
+Declarancion e implementacion de los metodos y atributos de la busqueda local.
+
+BMB.cpp
+
+implementacion de los metodos especificos de la busqueda local multiarranque.
+
+random.h
+
+generador de numeros aleatorios.
+
+----.txt archivos para la lectura de los datos de entrada.
+
+
+
